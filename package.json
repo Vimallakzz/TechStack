@@ -1,0 +1,18 @@
+{
+  "name": "techstack-scroll",
+  "version": "1.0.0",
+  "description": "No. 1",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "jassy": "0.2.7",
+    "js-transpiler": "0.0.5"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
